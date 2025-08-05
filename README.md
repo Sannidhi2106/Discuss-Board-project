@@ -12,12 +12,12 @@ SL.NO         Hardware          Details
 2.            RAM               6.12MB required  
 3.            Hard disk         GB required
 
-Software Configuration
-SL.NO  Software 	        Details 
-1.    Operating System 	  Windows 10 
-2.    Developing Tool 	  Visual Studio Code 
-3.  	Front End (Design) 	HTML, CSS 
-4. 	  Back End (Design) 	PHP 
-5. 	  Database 	          MYSQL 
-6.	  Server	            XAMP
-7.	  Documentation tool	Microsoft office 2003
+Software Configuration 
+SL.NO        Software            Details  
+1.           Operating System    Windows 10  
+2.           Developing Tool     Visual Studio Code  
+3.           Front End (Design)  HTML, CSS  
+4.           Back End (Design)   PHP  
+5.           Database            MYSQL  
+6.           Server              XAMP 
+7.           Documentation tool  Microsoft office 2003 
