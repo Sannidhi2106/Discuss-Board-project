@@ -6,13 +6,16 @@ The project aims to design and develop a simple, yet fully functional Discussion
 communication and fosters an engaging environment for users to share their thoughts and ideas. 
 
 SYSTEM REQUIREMENTS :
-Hardware Configuration 
+
+Hardware Configuration
+
 SL.NO         Hardware          Details  
 1.            Processor         Pentium IV  
 2.            RAM               6.12MB required  
 3.            Hard disk         GB required
 
 Software Configuration 
+
 SL.NO        Software            Details  
 1.           Operating System    Windows 10  
 2.           Developing Tool     Visual Studio Code  
