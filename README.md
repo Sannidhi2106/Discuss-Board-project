@@ -1,4 +1,5 @@
 DISCUSS BOARD :
+
 In the digital age, online communication has become an integral part of our daily lives With the rise of social media, online communities. Platforms that allow individuals to engage in discussions have gained immense popularity. One such platform is a Discussion Board, which 
 provides a structured space for people to interact, share knowledge, and exchange ideas on various topics.  These platforms are essential for fostering communication among like-minded individuals and promoting collaborative learning, making them valuable tools for educational 
 purposes, professional networks, and personal interest groups. 
